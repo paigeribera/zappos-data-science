@@ -1,0 +1,10 @@
+Welcome to my EATING_OUT REST API!
+
+I used a local MySQL instance to work on my database. If you want to recreate this,
+assuming you have pip installed MySQL and logged in, create a new database.
+Using that database, copy and paste everything from database_schema.sql.
+That should build the database.
+
+Once you've got that going, you can run final.py. By default, I have the port set
+to 3000. From there, you can hop around to different endpoints to get the information
+you're looking for. My unit tests are located in the tests.py file. 
